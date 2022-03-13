@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a43cdba3-120d-42de-b9ca-928a98f8a465": {
+      "ProjectGuid": "a43cdba3-120d-42de-b9ca-928a98f8a465",
+      "DisplayName": "Hospital",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
